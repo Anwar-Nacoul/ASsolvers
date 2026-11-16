@@ -1,0 +1,8 @@
+/home/yibrino/anaconda3/envs/easy_asp/lib/python3.10/site-packages/requests/__init__.py:92: RequestsDependencyWarning: Unable to find acceptable character detection dependency (chardet or charset_normalizer).
+  warnings.warn(
+INFO:waitress:Serving on http://127.0.0.1:5050
+<block>:1:99-113: info: atom does not occur in any rule head:
+  initial(X,Y,N)
+
+WARNING:waitress.queue:Task queue depth is 1
+WARNING:waitress.queue:Task queue depth is 2
